@@ -1,0 +1,23 @@
+Programação BackEnd
+*Assincronismo
+*Funções Assicronas / Async e Await
+*Requisições HTTP
+APIS e EndPoints
+
+---------------------------------------
+Assincronismo
+Sincronismos é uma tarefa que depende 
+exclusivamente do tempo de processamento
+e resposta do sistema.
+
+Assincronismo nas Requisições HTTPs
+JSON: Java Script, OBjeto, notification
+fetch('....',{opcao}) 
+            get
+            put/update
+            read
+            delete
+
+*Promise
+    async...
+    await
